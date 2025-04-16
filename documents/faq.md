@@ -9,5 +9,8 @@ You can use it with virtually any DNS management system! Just input the provided
 #### Do I need add star for this project?
 You don't have to do this, but if you add a star, we would be deeply grateful! It helps more people discover the project. Since this is a non-profit initiative, let's work together to make the internet a more open and free place! Thank you!
 
-#### Domain Name Risk Alert?  
-Unfortunately, we are currently working on addressing this issue. As of December 12, 2024, our domain has been listed on the Spamhaus domain blocklist due to extensive abuse. We are actively communicating with Spamhaus to resolve the matter and remove the abusive domains as quickly as possible. You can follow our progress here: [GitHub Progress Update](https://github.com/DigitalPlatDev/US.KG-Issues/issues/14).
+#### Cloudflare supprt?
+Yes — we fully support Cloudflare!
+You can seamlessly use our domain with all of Cloudflare’s features, including DNS management, CDN, DDoS protection, and SSL.
+
+Whether you're setting up for performance or security, integrating with Cloudflare is simple and fully compatible.

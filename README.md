@@ -15,7 +15,7 @@ DigitalPlat is fiscally sponsored by The Hack Foundation, a 501(c)(3) nonprofit 
 ### 🌍 Available Domain Extensions
 
 - **.DPDNS.ORG**
-- **.US.KG** (Limited Open Registration)
+- **.US.KG** (Limited Open Registration due to Abuse and Phishing)
 
 _(More extensions coming soon!)_
 
